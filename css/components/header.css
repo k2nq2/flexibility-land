@@ -1,0 +1,232 @@
+header {
+    padding-top: 33.4rem;
+
+}
+
+.header-state_text {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 132%;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 1.6rem;
+}
+
+.header-timer_text {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 131%;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 2.4rem;
+    color: #fff;
+}
+
+.timer {
+    display: flex;
+    gap: 0.7rem;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.2rem;
+}
+
+.hours-wrap p,
+.minutes-wrap p,
+.seconds-wrap p {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 77%;
+    text-align: center;
+    color: #a5e8e4;
+    margin-top: 1.2rem;
+}
+
+.hours,
+.minutes,
+.seconds {
+    background-color: #ffff;
+    border-radius: 1rem;
+    width: 10.6rem;
+    height: 7.2rem;
+    font-family: 'Steelfish';
+    font-weight: 400;
+    font-size: 5rem;
+    line-height: 92%;
+    text-align: center;
+    color: #141414;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-price {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 1.9rem;
+}
+
+.header-price_new {
+    border-radius: 0.5rem;
+    width: 17.1rem;
+    height: 6.9rem;
+    background:#33b3ab;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.header-price_new span {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 1.2rem;
+    line-height: 143%;
+    color: #fff;
+}
+
+.header-price_new p {
+    font-family: var(--third-family);
+    font-weight: 700;
+    font-size: 5rem;
+    line-height: 40%;
+    text-align: center;
+    color: #fff;
+}
+
+.header-price_old {
+    
+    border-radius: 0.5rem;
+    width: 15.7rem;
+    height: 6.9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.2rem;
+    background: #303030;
+    
+}
+
+.header-price_old span {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 1.2rem;
+    line-height: 143%;
+    color: #7c7c7c;
+}
+
+.header-price_old p {
+    position: relative;
+    font-family: var(--third-family);
+    font-weight: 700;
+    font-size: 4rem;
+    line-height: 114%;
+    color: #7c7c7c;
+    
+}
+
+.header-price_old p:before {
+    content: "";
+    display: block;
+    border: 0.5px solid #7c7c7c;
+    width: 5.1rem;
+    height: 0rem;
+    left: 0rem;
+    top: 2rem;
+    position: absolute;
+}
+
+.header-reality_text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 138%;
+    text-align: center;
+    color: #fffefe;
+    margin-bottom: 1.1rem;
+}
+
+.header-bonus_img {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    pointer-events: none;
+}
+
+.header-list_text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 138%;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 3rem;
+}
+
+.header-list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1.7rem;
+    row-gap: 2.2rem;
+    width: 31.7rem;
+    margin: 0 auto;
+}
+
+.header-list_item {
+    display: flex;
+    gap: 0.5rem;
+    width: 15rem;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 138%;
+    color: #fff;
+}
+
+.header-list_item img {
+    width: 1.3rem;
+    height: 1.3rem;
+}
+
+.header-bottom_block {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 34.1rem;
+    height: 8.1rem;
+    justify-content: center;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 138%;
+    text-align: center;
+    color: #fff;
+    margin: 0 auto;
+    margin-top: 2.5rem;
+}
+
+.header-bottom_block img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.header-bottom_block p {
+    position: relative;
+}
+.text-header{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 143%;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 2.3rem;
+}

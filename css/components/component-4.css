@@ -1,0 +1,44 @@
+.c4-top-text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.35rem;
+    line-height: 143%;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 3.7rem;
+}
+
+.c4-wrap{
+    width: 42.8rem;
+    height: 60.2rem;
+    background-image: url(../../images/c4-wrap.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 4.6rem;
+    padding-right: 4.6rem;
+    padding-top: 20rem;
+}
+.c4-firsttext{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 144%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-top: 4.6rem;
+}
+.c4-discount{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.9rem;
+    margin-top: 2.6rem;
+}
+.c4-discount-p{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+     line-height: 143%;
+    color: #fff;
+}

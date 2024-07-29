@@ -1,0 +1,50 @@
+footer {
+    margin-bottom: 29rem !important;
+    padding-top: 8rem;
+    background: #1b1b1b;
+    margin-top: 10rem !important;
+    padding-bottom: 5.7rem;
+}
+
+.bottom-text {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 1.1rem;
+    line-height: 182%;
+    text-align: center;
+    color: #4d4d4d;
+    margin-top: 7rem;
+}
+.links{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.4rem;
+    line-height: 179%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    margin-top: 5.8rem;
+}
+.contact-wrap{
+    display: flex;
+    gap: 3.8rem;
+    justify-content: center;
+    margin-top: 1.6rem;
+
+}
+.contacts-flex{
+    display: flex;
+    gap: 0.5rem;
+}
+.policy{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 179%;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    text-align: center;
+    color: #cacaca;
+    display: block;
+    margin-top: 6.5rem;
+}

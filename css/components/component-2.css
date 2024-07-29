@@ -1,0 +1,30 @@
+.c2 {
+    padding-top: 9.3rem;
+}
+
+.c2-content {
+    position: relative;
+    margin-top: 2.5rem;
+}
+
+.c2-content img {
+    width: 100%;
+}
+
+.c2-top-text,
+.c2-bot-text {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.4rem;
+    line-height: 143%;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    top: 16.2rem;
+}
+
+.c2-bot-text {
+    font-weight: 400;
+    top: 27.2rem;
+}
