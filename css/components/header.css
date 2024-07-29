@@ -97,6 +97,7 @@ header {
     line-height: 40%;
     text-align: center;
     color: #fff;
+    padding-top: 1rem;
 }
 
 .header-price_old {
@@ -127,7 +128,7 @@ header {
     font-size: 4rem;
     line-height: 114%;
     color: #7c7c7c;
-    
+    padding-top: 0.6rem;
 }
 
 .header-price_old p:before {
