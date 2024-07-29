@@ -164,7 +164,7 @@ section {
 .fixed-btn {
     z-index: 10;
     position: fixed;
-    bottom: -0.3rem;
+    
     transform: translate(-50%);
     left: 50%;
     width: 100%;
